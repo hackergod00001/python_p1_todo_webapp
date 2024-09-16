@@ -4,7 +4,7 @@ Created on Thu Aug 29 22:07:18 2024
 
 @author: master
 """
-FILEPATH = r'C:\Users\maste\Documents\my_pyhon_code\to_do_app\todos.txt'
+FILEPATH = r'todos.txt'
 def get_todos(filepath=FILEPATH):
     """    
     This function reads the file and gets all the lines present inisde that file in form of a list.
